@@ -8,6 +8,41 @@
       "when": 1752031906515,
       "tag": "0000_sticky_leader",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1758497146057,
+      "tag": "0001_wild_romulus",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1758505805403,
+      "tag": "0002_flaky_jazinda",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1758511231793,
+      "tag": "0003_salty_dark_beast",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1758511420770,
+      "tag": "0004_friendly_mysterio",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1758511537392,
+      "tag": "0005_reflective_chamber",
+      "breakpoints": true
     }
   ]
 }
